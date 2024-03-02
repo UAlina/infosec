@@ -1,7 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Инливидуальный проект
+title: Индивидуальный проект
 subtitle: Этап 1
 author:
   - Уткина А. Д.
